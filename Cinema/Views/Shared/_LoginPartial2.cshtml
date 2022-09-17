@@ -3,26 +3,33 @@
 
 @inject SignInManager<UsersDbo> SignInManager
 @inject UserManager<UsersDbo> UserManager
- 
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" >
 
 @if (SignInManager.IsSignedIn(User))
       {
-          <form asp-area="" asp-controller="Account" asp-action="SignOff" method="post" id="logoutForm" class="navbar-right">
-              <ul class="nav navbar-nav navbar-right">
-                  <li>
-                      <a asp-area="" asp-controller="Manage" asp-action="Index" title="Manage"> @UserManager.GetUserName(User)!</a>
-                  </li>
-                  <li>
-                      <button type="submit" class="btn btn-link navbar-btn navbar-link">Выйти</button>
-                  </li>
-              </ul>
-          </form>
+<form asp-area="" asp-controller="Account" asp-action="SignOff" method="post" id="logoutForm" class="navbar-right">
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a asp-area="" asp-controller="Movie" asp-action="Index" class="btn btn-success">@UserManager.GetUserName(User)!</a>
+        </li>
+        <li>
+            <button type="submit" class="btn btn-primary">Выйти</button>
+        </li>
+    </ul>
+</form>
       }
       else
       {
-          <ul class="nav navbar-nav navbar-right">
-              <li><a asp-area="" asp-controller="Account" asp-action="Login">Вход</a></li>
 
-          </ul>
+    <li><a asp-area="" asp-controller="Account" asp-action="Login" class="btn btn-outline-light text-dark">Вход</a></li>
       }
- 
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
