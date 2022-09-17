@@ -14,10 +14,10 @@
 <form asp-area="" asp-controller="Account" asp-action="SignOff" method="post" id="logoutForm" class="navbar-right">
     <ul class="nav navbar-nav navbar-right">
         <li>
-            <a asp-area="" asp-controller="Movie" asp-action="Index" class="btn btn-success">@UserManager.GetUserName(User)!</a>
+            <a asp-area="" asp-controller="Movie" asp-action="Index" class="btn btn-danger">@UserManager.GetUserName(User)</a>
         </li>
         <li>
-            <button type="submit" class="btn btn-primary">Выйти</button>
+            <button type="submit" class="btn btn-outline-dark text-light">Выйти</button>
         </li>
     </ul>
 </form>
@@ -25,7 +25,7 @@
       else
       {
 
-    <li><a asp-area="" asp-controller="Account" asp-action="Login" class="btn btn-outline-light text-dark">Вход</a></li>
+    <li><a asp-area="" asp-controller="Account" asp-action="Login" class="btn btn-outline-dark text-light">Вход</a></li>
       }
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>

@@ -20,3 +20,4 @@ D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.cs
 D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.dll
 D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.pdb
 D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.genruntimeconfig.cache
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.csproj.AssemblyReference.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.RazorAssemblyInfo.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Release\netcoreapp3.1\Cinema.RazorAssemblyInfo.cs

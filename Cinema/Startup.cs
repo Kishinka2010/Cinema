@@ -129,6 +129,9 @@ namespace Cinema
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();   // добавляем поддержку статических файлов
+
             app.UseRouting();
 
             app.UseCors(MyCorsPolicy);
