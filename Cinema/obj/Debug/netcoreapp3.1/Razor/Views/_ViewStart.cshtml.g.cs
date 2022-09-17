@@ -40,8 +40,15 @@ using Cinema.Dal.Data;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 6 "D:\Users\User\Source\GIt\Cinema\Cinema\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b65441d4b8c30076fd71d4cfa7d8dbcca91ba3fd", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"bc3807dae17343966a92c8db36c7ab81541fe944", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

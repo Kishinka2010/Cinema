@@ -9,3 +9,15 @@ C:\Users\User\source\NIKITA\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal
 C:\Users\User\source\NIKITA\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.dll
 C:\Users\User\source\NIKITA\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.pdb
 C:\Users\User\source\NIKITA\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.genruntimeconfig.cache
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\bin\Debug\netcoreapp3.1\Cinema.Dal.deps.json
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\bin\Debug\netcoreapp3.1\Cinema.Dal.runtimeconfig.json
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\bin\Debug\netcoreapp3.1\Cinema.Dal.runtimeconfig.dev.json
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\bin\Debug\netcoreapp3.1\Cinema.Dal.dll
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\bin\Debug\netcoreapp3.1\Cinema.Dal.pdb
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.AssemblyInfoInputs.cache
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.AssemblyInfo.cs
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.csproj.CoreCompileInputs.cache
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.dll
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.pdb
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.genruntimeconfig.cache
+D:\Users\User\Source\GIt\Cinema\Cinema.Dal\obj\Debug\netcoreapp3.1\Cinema.Dal.csproj.AssemblyReference.cache
