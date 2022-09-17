@@ -1,0 +1,21 @@
+﻿@model MovieListViewModel
+
+<h2>Все фильмы</h2>
+@{
+    foreach (var movie in Model.Movies)
+    {
+        <div>
+            <h2>
+                Фильмы: @movie.Title
+            </h2>
+            <h3>
+                в главных ролях: @movie.Starring
+            </h3>
+            <h4>
+                дата выхода :@movie.ReleaseDate
+            </h4>
+        </div>
+
+    }
+
+}
