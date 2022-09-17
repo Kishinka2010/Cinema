@@ -210,3 +210,5 @@ D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.RazorTarge
 D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.Views.pdb
 D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CopyComplete
 D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Users\User\Source\GIt\Cinema\Cinema\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial2.cshtml.g.cs

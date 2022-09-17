@@ -2,6 +2,9 @@
     ViewData["Title"] = "Home Page";
 }
 
+@inject SignInManager<UsersDbo> SignInManager
+@inject UserManager<UsersDbo> UserManager
+
 @model string
 <h1> Welcome @Model</h1>
 
