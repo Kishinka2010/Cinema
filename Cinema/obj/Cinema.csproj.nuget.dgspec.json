@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema\\Cinema.csproj": {}
+    "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema\\Cinema.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\Cinema.Dal.csproj": {
+    "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\Cinema.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\Cinema.Dal.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\Cinema.Dal.csproj",
         "projectName": "Cinema.Dal",
-        "projectPath": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\Cinema.Dal.csproj",
+        "projectPath": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\Cinema.Dal.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\obj\\",
+        "outputPath": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -91,7 +91,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -100,18 +101,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema\\Cinema.csproj": {
+    "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema\\Cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema\\Cinema.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema\\Cinema.csproj",
         "projectName": "Cinema",
-        "projectPath": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema\\Cinema.csproj",
+        "projectPath": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema\\Cinema.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema\\obj\\",
+        "outputPath": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,8 +133,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\Cinema.Dal.csproj": {
-                "projectPath": "D:\\Users\\User\\Source\\GIt\\Cinema\\Cinema.Dal\\Cinema.Dal.csproj"
+              "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\Cinema.Dal.csproj": {
+                "projectPath": "D:\\Users\\User\\Source\\Repos\\Cinema212\\Cinema.Dal\\Cinema.Dal.csproj"
               }
             }
           }
@@ -163,10 +164,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.28, 3.1.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -175,7 +183,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
